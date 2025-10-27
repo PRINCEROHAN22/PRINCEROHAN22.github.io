@@ -1,0 +1,1 @@
+Quick publish: create USERNAME.github.io, upload files, and visit https://USERNAME.github.io/
